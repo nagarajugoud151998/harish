@@ -31,10 +31,10 @@ import './Motorcycle.css'
 <Card style={{ width: '18rem',height:'20rem'  }}  className="moto1" >
   <Card.Img variant="top" src="https://cdn1.acedms.com/photos/listing/2018-05-24/3dc858581edf1fbcb2c87c8d5e6a6dc6_extra_large.jpg"  />
   <Card.Body>
-    <Card.Title> ₹60,000</Card.Title>
+    <Card.Title> ₹25,000</Card.Title>
     <Card.Text>
-     2018model <br></br>
-     Cbz xtream bike
+     2012model <br></br>
+     Cbz xtream 
     </Card.Text>
     </Card.Body>
 </Card>
@@ -42,10 +42,10 @@ import './Motorcycle.css'
 <Card style={{ width: '18rem' ,height:'20rem' }}  className="moto1" >
   <Card.Img variant="top" src="https://newwallpapershd.com/wp-content/uploads/2015/05/Aprilia-RSV4-Motorcycle-Wallpaper.jpg"  />
   <Card.Body>
-    <Card.Title> ₹1,25,000</Card.Title>
+    <Card.Title> ₹1,60,000</Card.Title>
     <Card.Text>
-     2017model <br></br>
-     R15 bike new condition
+     2022model <br></br>
+     r25 bike new condition
     </Card.Text>
     </Card.Body>
 </Card>
