@@ -15,7 +15,7 @@ function Car() {
     <Card.Title>₹30,000</Card.Title>
     <Card.Text>
       
-      2011-5000km <br></br>
+      2015-250000km<br></br>
       Nano car desial car
     </Card.Text>
     </Card.Body>
