@@ -1,0 +1,30 @@
+.Carousel {
+   height: 50%;
+}
+.img3{
+   margin-left: 250px;
+   height: 40%;
+}
+
+
+.card1{
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    margin: 45px;
+    text-align: center;
+    height: 40%;
+    
+    
+}
+.car1{
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+.card1 img{
+    margin-left: 0px;
+    
+    padding: 20px;
+}
