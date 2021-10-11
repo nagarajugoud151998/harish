@@ -17,7 +17,7 @@ function Sale() {
 <Card style={{ width: '18rem',height:'30rem' }}  className="card2" >
   <Card.Img variant="top" src="https://tse1.mm.bing.net/th?id=OIP.MfR17f4j9QmisSVJOxS4rQHaFm&pid=Api&P=0&w=212&h=161"  />
   <Card.Body>
-    <Card.Title> ₹100,00,000</Card.Title>
+    <Card.Title> ₹10,00,000</Card.Title>
     <Card.Text>
      2020model 
     Home sale Duplex house in america
@@ -27,10 +27,10 @@ function Sale() {
 <Card style={{ width: '18rem',height:'30rem' }}  className="card2" >
   <Card.Img variant="top" src="https://tse3.mm.bing.net/th?id=OIP.MKj3GGdrwwFkXKY_aL2PmAHaEZ&pid=Api&P=0&w=265&h=158"  />
   <Card.Body>
-    <Card.Title> ₹200,00,000</Card.Title>
+    <Card.Title> ₹20,00,000</Card.Title>
     <Card.Text>
      2021model <br></br>
-     Home sale single bedroom in hitech city
+     Home sale single bedroom in hitech city,road no6
     </Card.Text>
     </Card.Body>
 </Card>
@@ -38,10 +38,10 @@ function Sale() {
 <Card style={{ width: '18rem',height:'30rem' }}  className="card2" >
   <Card.Img variant="top" src="https://media.istockphoto.com/photos/house-for-sale-sign-picture-id1152256307"  />
   <Card.Body>
-    <Card.Title> ₹80,000,000</Card.Title>
+    <Card.Title> ₹8,000,000</Card.Title>
     <Card.Text>
-     2018model <br></br>
-     Home sale 4 floors in kukatapally
+     2012model <br></br>
+     Home sale 4 floors in kukatapally,roadno4
     </Card.Text>
     </Card.Body>
 </Card>  
