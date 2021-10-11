@@ -22,8 +22,8 @@ function Mobile() {
   <Card.Body>
     <Card.Title> ₹20,000</Card.Title>
     <Card.Text>
-     2019model 
-     oneplus6  mobile phone 6gbRam & 128gbRom
+     2021model
+     oneplus6  mobile phone 4gb ram & 128gbRom
     </Card.Text>
     </Card.Body>
 </Card>
